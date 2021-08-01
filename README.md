@@ -1,3 +1,45 @@
+# Switch E-Cart
+
+The Shopping Cart project I made for The Odin Project
+
+## Overview
+
+A Shopping Cart app to simulate an online shopping experience.
+
+## Features
+
+- Ability to route multiple pages within an app/website.
+- Simulate the experience in buying online products.
+- Add or Remove products in the cart.
+- Proceed to "Check Out"
+
+## Objectives and Outcomes
+
+- Apply React Router to a multi-page Shopping Cart Application. I've usually done projects that were mainly single page apps, so it took me a couple of days to piece things together. Made use of `Links`, `Router`, and `Hash Router` and successfully applied them.
+- Learn and apply Styled Components. I've used these once or twice before, but not to this extent. It was a very different experience and I think I'll definitely start using them more frequently. 
+- Make use of React Hooks like useState and useEffect. I've found both useEffect and useState to be very handy in other projects I've made.
+
+## Development
+
+Technologies:
+
+- React using `create-react-app`
+- React Router using `react-router-dom`
+- Styled Components using `styled-components`
+- React Icons using `react-icons`
+
+Sources:
+
+- 
+
+## Usage / Running this project locally
+
+1. Clone the Repository (`git clone ...`).
+2. `npm install` on Project Directory.
+3. `npm start` to run.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
